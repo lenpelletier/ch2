@@ -5,7 +5,7 @@ public class Date {
 		//Variable declarations
 		String day;
 		int date;
-		
+		String month;
 		
 	}
 }
