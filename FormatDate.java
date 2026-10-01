@@ -1,4 +1,4 @@
-public class Date {
+public class FormatDate {
 	
 	public static void main (String[] args) {
 		
